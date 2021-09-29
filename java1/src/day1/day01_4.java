@@ -35,7 +35,7 @@ public class day01_4 {// c s
 			System.out.println("\t\t[[출석부]]");
 			System.out.println("------------------------------");
 			System.out.println("이름\t1교시\t2교시\t3교시\t비고");
-			System.out.println( 이름+"\t"+교시_);
+			//System.out.println( 이름+"\t"+교시_);
 	
 		
 		
